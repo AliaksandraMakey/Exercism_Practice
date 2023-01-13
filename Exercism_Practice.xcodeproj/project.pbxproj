@@ -24,6 +24,30 @@
 		001B7E7D297000FD00B6A522 /* ListOps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A949F7296F55F4009DF4C8 /* ListOps.swift */; };
 		001B7E7E2970010500B6A522 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A949FA296F560F009DF4C8 /* BinarySearch.swift */; };
 		001B7E7F2970010C00B6A522 /* Raindrops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A949FD296F562C009DF4C8 /* Raindrops.swift */; };
+		001B7E822970907000B6A522 /* Diamond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E812970907000B6A522 /* Diamond.swift */; };
+		001B7E8A2970907C00B6A522 /* DiamondTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E892970907C00B6A522 /* DiamondTests.swift */; };
+		001B7E8E297090AA00B6A522 /* DiamondTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E892970907C00B6A522 /* DiamondTests.swift */; };
+		001B7E8F297090BA00B6A522 /* Diamond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E812970907000B6A522 /* Diamond.swift */; };
+		001B7E982970912F00B6A522 /* CollatzConjectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E972970912F00B6A522 /* CollatzConjectureTests.swift */; };
+		001B7E9D2970913B00B6A522 /* CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E9C2970913B00B6A522 /* CollatzConjecture.swift */; };
+		001B7E9E2970917100B6A522 /* CollatzConjectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E972970912F00B6A522 /* CollatzConjectureTests.swift */; };
+		001B7E9F2970918100B6A522 /* CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7E9C2970913B00B6A522 /* CollatzConjecture.swift */; };
+		001B7EA92970923400B6A522 /* DNATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EA82970923400B6A522 /* DNATests.swift */; };
+		001B7EAE2970924900B6A522 /* DNA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EAD2970924900B6A522 /* DNA.swift */; };
+		001B7EAF2970927700B6A522 /* DNATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EA82970923400B6A522 /* DNATests.swift */; };
+		001B7EB02970928300B6A522 /* DNA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EAD2970924900B6A522 /* DNA.swift */; };
+		001B7EB92971435800B6A522 /* NucleotideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EB82971435800B6A522 /* NucleotideTests.swift */; };
+		001B7EBE2971438900B6A522 /* Nucleotide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EBD2971438900B6A522 /* Nucleotide.swift */; };
+		001B7EBF297143F300B6A522 /* NucleotideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EB82971435800B6A522 /* NucleotideTests.swift */; };
+		001B7EC02971440400B6A522 /* Nucleotide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EBD2971438900B6A522 /* Nucleotide.swift */; };
+		001B7EC92971447200B6A522 /* FlattenArrayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EC82971447200B6A522 /* FlattenArrayTests.swift */; };
+		001B7ECE2971449000B6A522 /* FlattenArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7ECD2971449000B6A522 /* FlattenArray.swift */; };
+		001B7ECF297144B400B6A522 /* FlattenArrayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EC82971447200B6A522 /* FlattenArrayTests.swift */; };
+		001B7ED0297144C500B6A522 /* FlattenArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7ECD2971449000B6A522 /* FlattenArray.swift */; };
+		001B7ED929714A8A00B6A522 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7ED829714A8A00B6A522 /* ClockTests.swift */; };
+		001B7EDE29714AA000B6A522 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EDD29714AA000B6A522 /* Clock.swift */; };
+		001B7EDF29714ACA00B6A522 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7ED829714A8A00B6A522 /* ClockTests.swift */; };
+		001B7EE029714ADA00B6A522 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EDD29714AA000B6A522 /* Clock.swift */; };
 		0048D8AD296F5B9C00CF7C72 /* LogLinesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8AC296F5B9C00CF7C72 /* LogLinesTests.swift */; };
 		0048D8B8296F5BB300CF7C72 /* MasterMixologistTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8B7296F5BB300CF7C72 /* MasterMixologistTests.swift */; };
 		0048D8C3296F5BC500CF7C72 /* SecretAgentDouble_Null0111Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8C2296F5BC500CF7C72 /* SecretAgentDouble_Null0111Tests.swift */; };
@@ -141,6 +165,24 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		001B7E812970907000B6A522 /* Diamond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diamond.swift; sourceTree = "<group>"; };
+		001B7E872970907B00B6A522 /* DiamondTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiamondTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7E892970907C00B6A522 /* DiamondTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiamondTests.swift; sourceTree = "<group>"; };
+		001B7E952970912F00B6A522 /* CollatzConjectureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollatzConjectureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7E972970912F00B6A522 /* CollatzConjectureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollatzConjectureTests.swift; sourceTree = "<group>"; };
+		001B7E9C2970913B00B6A522 /* CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollatzConjecture.swift; sourceTree = "<group>"; };
+		001B7EA62970923400B6A522 /* DNATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DNATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7EA82970923400B6A522 /* DNATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DNATests.swift; sourceTree = "<group>"; };
+		001B7EAD2970924900B6A522 /* DNA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DNA.swift; sourceTree = "<group>"; };
+		001B7EB62971435700B6A522 /* NucleotideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NucleotideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7EB82971435800B6A522 /* NucleotideTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NucleotideTests.swift; sourceTree = "<group>"; };
+		001B7EBD2971438900B6A522 /* Nucleotide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nucleotide.swift; sourceTree = "<group>"; };
+		001B7EC62971447200B6A522 /* FlattenArrayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlattenArrayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7EC82971447200B6A522 /* FlattenArrayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlattenArrayTests.swift; sourceTree = "<group>"; };
+		001B7ECD2971449000B6A522 /* FlattenArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlattenArray.swift; sourceTree = "<group>"; };
+		001B7ED629714A8900B6A522 /* ClockTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClockTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7ED829714A8A00B6A522 /* ClockTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockTests.swift; sourceTree = "<group>"; };
+		001B7EDD29714AA000B6A522 /* Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
 		0048D8AA296F5B9C00CF7C72 /* LogLinesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LogLinesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0048D8AC296F5B9C00CF7C72 /* LogLinesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogLinesTests.swift; sourceTree = "<group>"; };
 		0048D8B5296F5BB300CF7C72 /* MasterMixologistTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasterMixologistTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -236,6 +278,48 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		001B7E842970907B00B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7E922970912F00B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EA32970923300B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EB32971435700B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EC32971447200B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7ED329714A8900B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0048D8A7296F5B9C00CF7C72 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -456,6 +540,108 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		001B7E8029708EAD00B6A522 /* Diamond */ = {
+			isa = PBXGroup;
+			children = (
+				001B7E812970907000B6A522 /* Diamond.swift */,
+				001B7E882970907C00B6A522 /* DiamondTests */,
+			);
+			path = Diamond;
+			sourceTree = "<group>";
+		};
+		001B7E882970907C00B6A522 /* DiamondTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7E892970907C00B6A522 /* DiamondTests.swift */,
+			);
+			path = DiamondTests;
+			sourceTree = "<group>";
+		};
+		001B7E902970911600B6A522 /* CollatzConjecture */ = {
+			isa = PBXGroup;
+			children = (
+				001B7E962970912F00B6A522 /* CollatzConjectureTests */,
+				001B7E9C2970913B00B6A522 /* CollatzConjecture.swift */,
+			);
+			path = CollatzConjecture;
+			sourceTree = "<group>";
+		};
+		001B7E962970912F00B6A522 /* CollatzConjectureTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7E972970912F00B6A522 /* CollatzConjectureTests.swift */,
+			);
+			path = CollatzConjectureTests;
+			sourceTree = "<group>";
+		};
+		001B7EA12970921000B6A522 /* DNA */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EAD2970924900B6A522 /* DNA.swift */,
+				001B7EA72970923400B6A522 /* DNATests */,
+			);
+			path = DNA;
+			sourceTree = "<group>";
+		};
+		001B7EA72970923400B6A522 /* DNATests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EA82970923400B6A522 /* DNATests.swift */,
+			);
+			path = DNATests;
+			sourceTree = "<group>";
+		};
+		001B7EB12971432F00B6A522 /* Nucleotide */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EB72971435800B6A522 /* NucleotideTests */,
+				001B7EBD2971438900B6A522 /* Nucleotide.swift */,
+			);
+			path = Nucleotide;
+			sourceTree = "<group>";
+		};
+		001B7EB72971435800B6A522 /* NucleotideTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EB82971435800B6A522 /* NucleotideTests.swift */,
+			);
+			path = NucleotideTests;
+			sourceTree = "<group>";
+		};
+		001B7EC12971444400B6A522 /* FlattenArray */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EC72971447200B6A522 /* FlattenArrayTests */,
+				001B7ECD2971449000B6A522 /* FlattenArray.swift */,
+			);
+			path = FlattenArray;
+			sourceTree = "<group>";
+		};
+		001B7EC72971447200B6A522 /* FlattenArrayTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EC82971447200B6A522 /* FlattenArrayTests.swift */,
+			);
+			path = FlattenArrayTests;
+			sourceTree = "<group>";
+		};
+		001B7ED129714A6200B6A522 /* Clock */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EDD29714AA000B6A522 /* Clock.swift */,
+				001B7ED729714A8A00B6A522 /* ClockTests */,
+			);
+			path = Clock;
+			sourceTree = "<group>";
+		};
+		001B7ED729714A8A00B6A522 /* ClockTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7ED829714A8A00B6A522 /* ClockTests.swift */,
+			);
+			path = ClockTests;
+			sourceTree = "<group>";
+		};
 		0048D8AB296F5B9C00CF7C72 /* LogLinesTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -603,6 +789,12 @@
 				0048D920296FF5F400CF7C72 /* ListOpsTests.xctest */,
 				0048D92B296FF61A00CF7C72 /* BinarySearchTests.xctest */,
 				0048D936296FF63900CF7C72 /* RaindropsTests.xctest */,
+				001B7E872970907B00B6A522 /* DiamondTests.xctest */,
+				001B7E952970912F00B6A522 /* CollatzConjectureTests.xctest */,
+				001B7EA62970923400B6A522 /* DNATests.xctest */,
+				001B7EB62971435700B6A522 /* NucleotideTests.xctest */,
+				001B7EC62971447200B6A522 /* FlattenArrayTests.xctest */,
+				001B7ED629714A8900B6A522 /* ClockTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -656,6 +848,12 @@
 				00A94934296F44C1009DF4C8 /* Leap */,
 				00A94931296F4475009DF4C8 /* Gigasecond */,
 				00A9492D296F4378009DF4C8 /* MagicianTraining */,
+				001B7E8029708EAD00B6A522 /* Diamond */,
+				001B7E902970911600B6A522 /* CollatzConjecture */,
+				001B7EA12970921000B6A522 /* DNA */,
+				001B7EB12971432F00B6A522 /* Nucleotide */,
+				001B7EC12971444400B6A522 /* FlattenArray */,
+				001B7ED129714A6200B6A522 /* Clock */,
 			);
 			path = ExercismPractice;
 			sourceTree = "<group>";
@@ -1053,6 +1251,108 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		001B7E862970907B00B6A522 /* DiamondTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7E8B2970907C00B6A522 /* Build configuration list for PBXNativeTarget "DiamondTests" */;
+			buildPhases = (
+				001B7E832970907B00B6A522 /* Sources */,
+				001B7E842970907B00B6A522 /* Frameworks */,
+				001B7E852970907B00B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DiamondTests;
+			productName = DiamondTests;
+			productReference = 001B7E872970907B00B6A522 /* DiamondTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7E942970912F00B6A522 /* CollatzConjectureTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7E992970912F00B6A522 /* Build configuration list for PBXNativeTarget "CollatzConjectureTests" */;
+			buildPhases = (
+				001B7E912970912F00B6A522 /* Sources */,
+				001B7E922970912F00B6A522 /* Frameworks */,
+				001B7E932970912F00B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CollatzConjectureTests;
+			productName = CollatzConjectureTests;
+			productReference = 001B7E952970912F00B6A522 /* CollatzConjectureTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7EA52970923300B6A522 /* DNATests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7EAA2970923400B6A522 /* Build configuration list for PBXNativeTarget "DNATests" */;
+			buildPhases = (
+				001B7EA22970923300B6A522 /* Sources */,
+				001B7EA32970923300B6A522 /* Frameworks */,
+				001B7EA42970923300B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DNATests;
+			productName = DNATests;
+			productReference = 001B7EA62970923400B6A522 /* DNATests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7EB52971435700B6A522 /* NucleotideTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7EBA2971435800B6A522 /* Build configuration list for PBXNativeTarget "NucleotideTests" */;
+			buildPhases = (
+				001B7EB22971435700B6A522 /* Sources */,
+				001B7EB32971435700B6A522 /* Frameworks */,
+				001B7EB42971435700B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NucleotideTests;
+			productName = "NucleotideЕуыеы";
+			productReference = 001B7EB62971435700B6A522 /* NucleotideTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7EC52971447200B6A522 /* FlattenArrayTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7ECA2971447200B6A522 /* Build configuration list for PBXNativeTarget "FlattenArrayTests" */;
+			buildPhases = (
+				001B7EC22971447200B6A522 /* Sources */,
+				001B7EC32971447200B6A522 /* Frameworks */,
+				001B7EC42971447200B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlattenArrayTests;
+			productName = FlattenArrayTests;
+			productReference = 001B7EC62971447200B6A522 /* FlattenArrayTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7ED529714A8900B6A522 /* ClockTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7EDA29714A8A00B6A522 /* Build configuration list for PBXNativeTarget "ClockTests" */;
+			buildPhases = (
+				001B7ED229714A8900B6A522 /* Sources */,
+				001B7ED329714A8900B6A522 /* Frameworks */,
+				001B7ED429714A8900B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ClockTests;
+			productName = ClockTests;
+			productReference = 001B7ED629714A8900B6A522 /* ClockTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		0048D8A9296F5B9C00CF7C72 /* LogLinesTests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0048D8B0296F5B9C00CF7C72 /* Build configuration list for PBXNativeTarget "LogLinesTests" */;
@@ -1590,6 +1890,24 @@
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
+					001B7E862970907B00B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7E942970912F00B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7EA52970923300B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7EB52971435700B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7EC52971447200B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7ED529714A8900B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
 					0048D8A9296F5B9C00CF7C72 = {
 						CreatedOnToolsVersion = 14.2;
 					};
@@ -1729,11 +2047,59 @@
 				00A9496D296F4A0B009DF4C8 /* LeapTests */,
 				00A94960296F4974009DF4C8 /* GigasecondTests */,
 				00A94913296F376A009DF4C8 /* MagicianInTrainingTests */,
+				001B7E862970907B00B6A522 /* DiamondTests */,
+				001B7E942970912F00B6A522 /* CollatzConjectureTests */,
+				001B7EA52970923300B6A522 /* DNATests */,
+				001B7EB52971435700B6A522 /* NucleotideTests */,
+				001B7EC52971447200B6A522 /* FlattenArrayTests */,
+				001B7ED529714A8900B6A522 /* ClockTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		001B7E852970907B00B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7E932970912F00B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EA42970923300B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EB42971435700B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EC42971447200B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7ED429714A8900B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0048D8A8296F5B9C00CF7C72 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1947,6 +2313,60 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		001B7E832970907B00B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7E8F297090BA00B6A522 /* Diamond.swift in Sources */,
+				001B7E8A2970907C00B6A522 /* DiamondTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7E912970912F00B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7E9F2970918100B6A522 /* CollatzConjecture.swift in Sources */,
+				001B7E982970912F00B6A522 /* CollatzConjectureTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EA22970923300B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7EB02970928300B6A522 /* DNA.swift in Sources */,
+				001B7EA92970923400B6A522 /* DNATests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EB22971435700B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7EC02971440400B6A522 /* Nucleotide.swift in Sources */,
+				001B7EB92971435800B6A522 /* NucleotideTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EC22971447200B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7ED0297144C500B6A522 /* FlattenArray.swift in Sources */,
+				001B7EC92971447200B6A522 /* FlattenArrayTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7ED229714A8900B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7EE029714ADA00B6A522 /* Clock.swift in Sources */,
+				001B7ED929714A8A00B6A522 /* ClockTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0048D8A6296F5B9C00CF7C72 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2087,9 +2507,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0048D8D4296F5CBA00CF7C72 /* SecretAgentDouble_Null0111Tests.swift in Sources */,
+				001B7E9E2970917100B6A522 /* CollatzConjectureTests.swift in Sources */,
 				00A949D4296F543D009DF4C8 /* Sublist.swift in Sources */,
 				00A94A24296F5888009DF4C8 /* WindowingSystemTests.swift in Sources */,
 				00A94929296F4350009DF4C8 /* main.swift in Sources */,
+				001B7EAF2970927700B6A522 /* DNATests.swift in Sources */,
 				00A949E6296F551E009DF4C8 /* VexingVehiclePurchase.swift in Sources */,
 				00A949DA296F5492009DF4C8 /* LogLines.swift in Sources */,
 				00A9499E296F5183009DF4C8 /* SantaSwiftyHelperTests.swift in Sources */,
@@ -2108,8 +2530,11 @@
 				00A949FB296F560F009DF4C8 /* BinarySearch.swift in Sources */,
 				00A94933296F44A1009DF4C8 /* Gigasecond.swift in Sources */,
 				001B7E6F296FFE8C00B6A522 /* AccumulateTests.swift in Sources */,
+				001B7EDE29714AA000B6A522 /* Clock.swift in Sources */,
 				00A94982296F4AC4009DF4C8 /* TwoFerTests.swift in Sources */,
+				001B7EBE2971438900B6A522 /* Nucleotide.swift in Sources */,
 				001B7E772970009900B6A522 /* ListOpsTests.swift in Sources */,
+				001B7ECF297144B400B6A522 /* FlattenArrayTests.swift in Sources */,
 				0048D8D8296F5D0B00CF7C72 /* LogLinesTests.swift in Sources */,
 				00A949DD296F54AC009DF4C8 /* MasterMixologist.swift in Sources */,
 				00A94948296F46FF009DF4C8 /* SumOfMultiplesTests.swift in Sources */,
@@ -2121,6 +2546,7 @@
 				00A94939296F4524009DF4C8 /* SumOfMultiples.swift in Sources */,
 				00A94968296F49AA009DF4C8 /* GigasecondTests.swift in Sources */,
 				00A94975296F4A41009DF4C8 /* LeapTests.swift in Sources */,
+				001B7ECE2971449000B6A522 /* FlattenArray.swift in Sources */,
 				00A94A17296F5751009DF4C8 /* TheFirstRuleofPoetryClubTests.swift in Sources */,
 				00A9493C296F4661009DF4C8 /* CircularBufferTests.swift in Sources */,
 				00A949C4296F536E009DF4C8 /* CalCustomSignShopTests.swift in Sources */,
@@ -2128,15 +2554,20 @@
 				001B7E752970006B00B6A522 /* GradeSchoolTests.swift in Sources */,
 				00A94A49296F5A0F009DF4C8 /* SublistTests.swift in Sources */,
 				00A949EF296F55A4009DF4C8 /* GradeSchool.swift in Sources */,
+				001B7EBF297143F300B6A522 /* NucleotideTests.swift in Sources */,
 				00A949D1296F5424009DF4C8 /* Bob.swift in Sources */,
 				00A949E0296F54EB009DF4C8 /* SecretAgentDouble-Null0111.swift in Sources */,
 				00A949CE296F540A009DF4C8 /* WindowingSystem.swift in Sources */,
 				00A949F2296F55C0009DF4C8 /* Hamming.swift in Sources */,
 				00A9494D296F4824009DF4C8 /* TwoFer.swift in Sources */,
 				00A94956296F48D9009DF4C8 /* LasagnaMaster.swift in Sources */,
+				001B7E8E297090AA00B6A522 /* DiamondTests.swift in Sources */,
+				001B7E822970907000B6A522 /* Diamond.swift in Sources */,
 				00A94936296F44CC009DF4C8 /* Leap.swift in Sources */,
 				00A949EC296F5586009DF4C8 /* ETL.swift in Sources */,
 				00A94A15296F56D8009DF4C8 /* SliceSizingTests.swift in Sources */,
+				001B7E9D2970913B00B6A522 /* CollatzConjecture.swift in Sources */,
+				001B7EAE2970924900B6A522 /* DNA.swift in Sources */,
 				00A949FE296F562C009DF4C8 /* Raindrops.swift in Sources */,
 				00A949F5296F55DB009DF4C8 /* Isogram.swift in Sources */,
 				00A949E3296F5502009DF4C8 /* FreelancerRates.swift in Sources */,
@@ -2145,6 +2576,7 @@
 				0048D93D296FFE5F00CF7C72 /* VexingVehiclePurchaseTests.swift in Sources */,
 				0048D8D2296F5C8E00CF7C72 /* FreelancerRatesTests.swift in Sources */,
 				00A94A47296F5981009DF4C8 /* BobTests.swift in Sources */,
+				001B7EDF29714ACA00B6A522 /* ClockTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2286,6 +2718,246 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		001B7E8C2970907C00B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DiamondTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7E8D2970907C00B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DiamondTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7E9A2970912F00B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.CollatzConjectureTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7E9B2970912F00B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.CollatzConjectureTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7EAB2970923400B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DNATests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7EAC2970923400B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DNATests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7EBB2971435800B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.Nucleotide-----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7EBC2971435800B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.Nucleotide-----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7ECB2971447200B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.FlattenArrayTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7ECC2971447200B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.FlattenArrayTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7EDB29714A8A00B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ClockTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7EDC29714A8A00B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ClockTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		0048D8AE296F5B9C00CF7C72 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -3624,6 +4296,60 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		001B7E8B2970907C00B6A522 /* Build configuration list for PBXNativeTarget "DiamondTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7E8C2970907C00B6A522 /* Debug */,
+				001B7E8D2970907C00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7E992970912F00B6A522 /* Build configuration list for PBXNativeTarget "CollatzConjectureTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7E9A2970912F00B6A522 /* Debug */,
+				001B7E9B2970912F00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7EAA2970923400B6A522 /* Build configuration list for PBXNativeTarget "DNATests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7EAB2970923400B6A522 /* Debug */,
+				001B7EAC2970923400B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7EBA2971435800B6A522 /* Build configuration list for PBXNativeTarget "NucleotideTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7EBB2971435800B6A522 /* Debug */,
+				001B7EBC2971435800B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7ECA2971447200B6A522 /* Build configuration list for PBXNativeTarget "FlattenArrayTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7ECB2971447200B6A522 /* Debug */,
+				001B7ECC2971447200B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7EDA29714A8A00B6A522 /* Build configuration list for PBXNativeTarget "ClockTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7EDB29714A8A00B6A522 /* Debug */,
+				001B7EDC29714A8A00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		0048D8B0296F5B9C00CF7C72 /* Build configuration list for PBXNativeTarget "LogLinesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
