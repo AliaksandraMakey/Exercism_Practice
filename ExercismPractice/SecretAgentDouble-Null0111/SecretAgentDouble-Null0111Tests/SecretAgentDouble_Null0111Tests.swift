@@ -1,5 +1,5 @@
-import XCTest
 
+import XCTest
 
 final class SecretAgentTests: XCTestCase {
   let runAll = Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false

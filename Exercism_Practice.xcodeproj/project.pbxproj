@@ -48,6 +48,38 @@
 		001B7EDE29714AA000B6A522 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EDD29714AA000B6A522 /* Clock.swift */; };
 		001B7EDF29714ACA00B6A522 /* ClockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7ED829714A8A00B6A522 /* ClockTests.swift */; };
 		001B7EE029714ADA00B6A522 /* Clock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EDD29714AA000B6A522 /* Clock.swift */; };
+		001B7EE9297163B900B6A522 /* GrainsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EE8297163B900B6A522 /* GrainsTests.swift */; };
+		001B7EEE297163C700B6A522 /* Grains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EED297163C700B6A522 /* Grains.swift */; };
+		001B7EEF297163DF00B6A522 /* Grains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EED297163C700B6A522 /* Grains.swift */; };
+		001B7EF02971646400B6A522 /* GrainsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EE8297163B900B6A522 /* GrainsTests.swift */; };
+		001B7EF92971959000B6A522 /* SpaceAgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EF82971959000B6A522 /* SpaceAgeTests.swift */; };
+		001B7EFE2971959F00B6A522 /* SpaceAge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EFD2971959F00B6A522 /* SpaceAge.swift */; };
+		001B7EFF297195F300B6A522 /* SpaceAgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EF82971959000B6A522 /* SpaceAgeTests.swift */; };
+		001B7F002971960100B6A522 /* SpaceAge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7EFD2971959F00B6A522 /* SpaceAge.swift */; };
+		001B7F032974041700B6A522 /* DifferenceOfSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F022974041700B6A522 /* DifferenceOfSquares.swift */; };
+		001B7F0B2974043B00B6A522 /* DifferenceOfSquaresTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F0A2974043B00B6A522 /* DifferenceOfSquaresTests.swift */; };
+		001B7F0F2974045E00B6A522 /* DifferenceOfSquaresTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F0A2974043B00B6A522 /* DifferenceOfSquaresTests.swift */; };
+		001B7F10297404CE00B6A522 /* DifferenceOfSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F022974041700B6A522 /* DifferenceOfSquares.swift */; };
+		001B7F1929758F4F00B6A522 /* PerfectNumbersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F1829758F4F00B6A522 /* PerfectNumbersTests.swift */; };
+		001B7F1E29758F6000B6A522 /* PerfectNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F1D29758F6000B6A522 /* PerfectNumbers.swift */; };
+		001B7F1F29758F7C00B6A522 /* PerfectNumbersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F1829758F4F00B6A522 /* PerfectNumbersTests.swift */; };
+		001B7F2029758F8800B6A522 /* PerfectNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F1D29758F6000B6A522 /* PerfectNumbers.swift */; };
+		001B7F2929759A7400B6A522 /* ISBNVerifierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F2829759A7400B6A522 /* ISBNVerifierTests.swift */; };
+		001B7F2E29759A8200B6A522 /* ISBNVerifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F2D29759A8200B6A522 /* ISBNVerifier.swift */; };
+		001B7F2F29759A9100B6A522 /* ISBNVerifierTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F2829759A7400B6A522 /* ISBNVerifierTests.swift */; };
+		001B7F3029759AA400B6A522 /* ISBNVerifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001B7F2D29759A8200B6A522 /* ISBNVerifier.swift */; };
+		003835292975D476003AB687 /* PhoneNumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835282975D476003AB687 /* PhoneNumberTests.swift */; };
+		0038352E2975D490003AB687 /* PhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038352D2975D490003AB687 /* PhoneNumber.swift */; };
+		0038352F2975D49C003AB687 /* PhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038352D2975D490003AB687 /* PhoneNumber.swift */; };
+		003835302975D4A3003AB687 /* PhoneNumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835282975D476003AB687 /* PhoneNumberTests.swift */; };
+		003835332975F2B2003AB687 /* KindergartenGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835322975F2B2003AB687 /* KindergartenGarden.swift */; };
+		0038353B2975F2BD003AB687 /* KindergartenGardenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038353A2975F2BD003AB687 /* KindergartenGardenTests.swift */; };
+		0038353F2975F2CE003AB687 /* KindergartenGardenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038353A2975F2BD003AB687 /* KindergartenGardenTests.swift */; };
+		003835402975F2E1003AB687 /* KindergartenGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835322975F2B2003AB687 /* KindergartenGarden.swift */; };
+		003835432976DFFC003AB687 /* ProteinTranslation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835422976DFFC003AB687 /* ProteinTranslation.swift */; };
+		0038354B2976E00D003AB687 /* ProteinTranslationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038354A2976E00D003AB687 /* ProteinTranslationTests.swift */; };
+		0038354F2976E02A003AB687 /* ProteinTranslationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0038354A2976E00D003AB687 /* ProteinTranslationTests.swift */; };
+		003835502976E036003AB687 /* ProteinTranslation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003835422976DFFC003AB687 /* ProteinTranslation.swift */; };
 		0048D8AD296F5B9C00CF7C72 /* LogLinesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8AC296F5B9C00CF7C72 /* LogLinesTests.swift */; };
 		0048D8B8296F5BB300CF7C72 /* MasterMixologistTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8B7296F5BB300CF7C72 /* MasterMixologistTests.swift */; };
 		0048D8C3296F5BC500CF7C72 /* SecretAgentDouble_Null0111Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0048D8C2296F5BC500CF7C72 /* SecretAgentDouble_Null0111Tests.swift */; };
@@ -183,6 +215,30 @@
 		001B7ED629714A8900B6A522 /* ClockTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClockTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		001B7ED829714A8A00B6A522 /* ClockTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockTests.swift; sourceTree = "<group>"; };
 		001B7EDD29714AA000B6A522 /* Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clock.swift; sourceTree = "<group>"; };
+		001B7EE6297163B900B6A522 /* GrainsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GrainsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7EE8297163B900B6A522 /* GrainsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrainsTests.swift; sourceTree = "<group>"; };
+		001B7EED297163C700B6A522 /* Grains.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grains.swift; sourceTree = "<group>"; };
+		001B7EF62971959000B6A522 /* SpaceAgeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpaceAgeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7EF82971959000B6A522 /* SpaceAgeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceAgeTests.swift; sourceTree = "<group>"; };
+		001B7EFD2971959F00B6A522 /* SpaceAge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceAge.swift; sourceTree = "<group>"; };
+		001B7F022974041700B6A522 /* DifferenceOfSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferenceOfSquares.swift; sourceTree = "<group>"; };
+		001B7F082974043B00B6A522 /* DifferenceOfSquaresTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DifferenceOfSquaresTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7F0A2974043B00B6A522 /* DifferenceOfSquaresTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferenceOfSquaresTests.swift; sourceTree = "<group>"; };
+		001B7F1629758F4F00B6A522 /* PerfectNumbersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PerfectNumbersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7F1829758F4F00B6A522 /* PerfectNumbersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumbersTests.swift; sourceTree = "<group>"; };
+		001B7F1D29758F6000B6A522 /* PerfectNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumbers.swift; sourceTree = "<group>"; };
+		001B7F2629759A7400B6A522 /* ISBNVerifierTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ISBNVerifierTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		001B7F2829759A7400B6A522 /* ISBNVerifierTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISBNVerifierTests.swift; sourceTree = "<group>"; };
+		001B7F2D29759A8200B6A522 /* ISBNVerifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISBNVerifier.swift; sourceTree = "<group>"; };
+		003835262975D476003AB687 /* PhoneNumberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneNumberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		003835282975D476003AB687 /* PhoneNumberTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumberTests.swift; sourceTree = "<group>"; };
+		0038352D2975D490003AB687 /* PhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumber.swift; sourceTree = "<group>"; };
+		003835322975F2B2003AB687 /* KindergartenGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KindergartenGarden.swift; sourceTree = "<group>"; };
+		003835382975F2BC003AB687 /* KindergartenGardenTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KindergartenGardenTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0038353A2975F2BD003AB687 /* KindergartenGardenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KindergartenGardenTests.swift; sourceTree = "<group>"; };
+		003835422976DFFC003AB687 /* ProteinTranslation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProteinTranslation.swift; sourceTree = "<group>"; };
+		003835482976E00D003AB687 /* ProteinTranslationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProteinTranslationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0038354A2976E00D003AB687 /* ProteinTranslationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProteinTranslationTests.swift; sourceTree = "<group>"; };
 		0048D8AA296F5B9C00CF7C72 /* LogLinesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LogLinesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0048D8AC296F5B9C00CF7C72 /* LogLinesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogLinesTests.swift; sourceTree = "<group>"; };
 		0048D8B5296F5BB300CF7C72 /* MasterMixologistTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MasterMixologistTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -314,6 +370,62 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		001B7ED329714A8900B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EE3297163B900B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EF32971959000B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F052974043B00B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F1329758F4F00B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F2329759A7400B6A522 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835232975D476003AB687 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835352975F2BC003AB687 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835452976E00D003AB687 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -642,6 +754,142 @@
 			path = ClockTests;
 			sourceTree = "<group>";
 		};
+		001B7EE12971638C00B6A522 /* Grains */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EE7297163B900B6A522 /* GrainsTests */,
+				001B7EED297163C700B6A522 /* Grains.swift */,
+			);
+			path = Grains;
+			sourceTree = "<group>";
+		};
+		001B7EE7297163B900B6A522 /* GrainsTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EE8297163B900B6A522 /* GrainsTests.swift */,
+			);
+			path = GrainsTests;
+			sourceTree = "<group>";
+		};
+		001B7EF12971956100B6A522 /* SpaceAge */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EF72971959000B6A522 /* SpaceAgeTests */,
+				001B7EFD2971959F00B6A522 /* SpaceAge.swift */,
+			);
+			path = SpaceAge;
+			sourceTree = "<group>";
+		};
+		001B7EF72971959000B6A522 /* SpaceAgeTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7EF82971959000B6A522 /* SpaceAgeTests.swift */,
+			);
+			path = SpaceAgeTests;
+			sourceTree = "<group>";
+		};
+		001B7F01297403F100B6A522 /* DifferenceOfSquares */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F092974043B00B6A522 /* DifferenceOfSquaresTests */,
+				001B7F022974041700B6A522 /* DifferenceOfSquares.swift */,
+			);
+			path = DifferenceOfSquares;
+			sourceTree = "<group>";
+		};
+		001B7F092974043B00B6A522 /* DifferenceOfSquaresTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F0A2974043B00B6A522 /* DifferenceOfSquaresTests.swift */,
+			);
+			path = DifferenceOfSquaresTests;
+			sourceTree = "<group>";
+		};
+		001B7F1129758F2000B6A522 /* PerfectNumbers */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F1729758F4F00B6A522 /* PerfectNumbersTests */,
+				001B7F1D29758F6000B6A522 /* PerfectNumbers.swift */,
+			);
+			path = PerfectNumbers;
+			sourceTree = "<group>";
+		};
+		001B7F1729758F4F00B6A522 /* PerfectNumbersTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F1829758F4F00B6A522 /* PerfectNumbersTests.swift */,
+			);
+			path = PerfectNumbersTests;
+			sourceTree = "<group>";
+		};
+		001B7F2129759A5600B6A522 /* ISBNVerifier */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F2729759A7400B6A522 /* ISBNVerifierTests */,
+				001B7F2D29759A8200B6A522 /* ISBNVerifier.swift */,
+			);
+			path = ISBNVerifier;
+			sourceTree = "<group>";
+		};
+		001B7F2729759A7400B6A522 /* ISBNVerifierTests */ = {
+			isa = PBXGroup;
+			children = (
+				001B7F2829759A7400B6A522 /* ISBNVerifierTests.swift */,
+			);
+			path = ISBNVerifierTests;
+			sourceTree = "<group>";
+		};
+		003835212975D452003AB687 /* PhoneNumber */ = {
+			isa = PBXGroup;
+			children = (
+				003835272975D476003AB687 /* PhoneNumberTests */,
+				0038352D2975D490003AB687 /* PhoneNumber.swift */,
+			);
+			path = PhoneNumber;
+			sourceTree = "<group>";
+		};
+		003835272975D476003AB687 /* PhoneNumberTests */ = {
+			isa = PBXGroup;
+			children = (
+				003835282975D476003AB687 /* PhoneNumberTests.swift */,
+			);
+			path = PhoneNumberTests;
+			sourceTree = "<group>";
+		};
+		003835312975F279003AB687 /* KindergartenGarden */ = {
+			isa = PBXGroup;
+			children = (
+				003835392975F2BD003AB687 /* KindergartenGardenTests */,
+				003835322975F2B2003AB687 /* KindergartenGarden.swift */,
+			);
+			path = KindergartenGarden;
+			sourceTree = "<group>";
+		};
+		003835392975F2BD003AB687 /* KindergartenGardenTests */ = {
+			isa = PBXGroup;
+			children = (
+				0038353A2975F2BD003AB687 /* KindergartenGardenTests.swift */,
+			);
+			path = KindergartenGardenTests;
+			sourceTree = "<group>";
+		};
+		003835412976DFD5003AB687 /* ProteinTranslation */ = {
+			isa = PBXGroup;
+			children = (
+				003835492976E00D003AB687 /* ProteinTranslationTests */,
+				003835422976DFFC003AB687 /* ProteinTranslation.swift */,
+			);
+			path = ProteinTranslation;
+			sourceTree = "<group>";
+		};
+		003835492976E00D003AB687 /* ProteinTranslationTests */ = {
+			isa = PBXGroup;
+			children = (
+				0038354A2976E00D003AB687 /* ProteinTranslationTests.swift */,
+			);
+			path = ProteinTranslationTests;
+			sourceTree = "<group>";
+		};
 		0048D8AB296F5B9C00CF7C72 /* LogLinesTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -795,6 +1043,14 @@
 				001B7EB62971435700B6A522 /* NucleotideTests.xctest */,
 				001B7EC62971447200B6A522 /* FlattenArrayTests.xctest */,
 				001B7ED629714A8900B6A522 /* ClockTests.xctest */,
+				001B7EE6297163B900B6A522 /* GrainsTests.xctest */,
+				001B7EF62971959000B6A522 /* SpaceAgeTests.xctest */,
+				001B7F082974043B00B6A522 /* DifferenceOfSquaresTests.xctest */,
+				001B7F1629758F4F00B6A522 /* PerfectNumbersTests.xctest */,
+				001B7F2629759A7400B6A522 /* ISBNVerifierTests.xctest */,
+				003835262975D476003AB687 /* PhoneNumberTests.xctest */,
+				003835382975F2BC003AB687 /* KindergartenGardenTests.xctest */,
+				003835482976E00D003AB687 /* ProteinTranslationTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -854,6 +1110,14 @@
 				001B7EB12971432F00B6A522 /* Nucleotide */,
 				001B7EC12971444400B6A522 /* FlattenArray */,
 				001B7ED129714A6200B6A522 /* Clock */,
+				001B7EF12971956100B6A522 /* SpaceAge */,
+				001B7EE12971638C00B6A522 /* Grains */,
+				001B7F01297403F100B6A522 /* DifferenceOfSquares */,
+				001B7F1129758F2000B6A522 /* PerfectNumbers */,
+				001B7F2129759A5600B6A522 /* ISBNVerifier */,
+				003835212975D452003AB687 /* PhoneNumber */,
+				003835312975F279003AB687 /* KindergartenGarden */,
+				003835412976DFD5003AB687 /* ProteinTranslation */,
 			);
 			path = ExercismPractice;
 			sourceTree = "<group>";
@@ -1351,6 +1615,142 @@
 			name = ClockTests;
 			productName = ClockTests;
 			productReference = 001B7ED629714A8900B6A522 /* ClockTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7EE5297163B900B6A522 /* GrainsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7EEA297163B900B6A522 /* Build configuration list for PBXNativeTarget "GrainsTests" */;
+			buildPhases = (
+				001B7EE2297163B900B6A522 /* Sources */,
+				001B7EE3297163B900B6A522 /* Frameworks */,
+				001B7EE4297163B900B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GrainsTests;
+			productName = GrainsTests;
+			productReference = 001B7EE6297163B900B6A522 /* GrainsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7EF52971959000B6A522 /* SpaceAgeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7EFA2971959000B6A522 /* Build configuration list for PBXNativeTarget "SpaceAgeTests" */;
+			buildPhases = (
+				001B7EF22971959000B6A522 /* Sources */,
+				001B7EF32971959000B6A522 /* Frameworks */,
+				001B7EF42971959000B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpaceAgeTests;
+			productName = SpaceAgeTests;
+			productReference = 001B7EF62971959000B6A522 /* SpaceAgeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7F072974043B00B6A522 /* DifferenceOfSquaresTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7F0C2974043B00B6A522 /* Build configuration list for PBXNativeTarget "DifferenceOfSquaresTests" */;
+			buildPhases = (
+				001B7F042974043B00B6A522 /* Sources */,
+				001B7F052974043B00B6A522 /* Frameworks */,
+				001B7F062974043B00B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DifferenceOfSquaresTests;
+			productName = DifferenceOfSquaresTests;
+			productReference = 001B7F082974043B00B6A522 /* DifferenceOfSquaresTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7F1529758F4F00B6A522 /* PerfectNumbersTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7F1A29758F4F00B6A522 /* Build configuration list for PBXNativeTarget "PerfectNumbersTests" */;
+			buildPhases = (
+				001B7F1229758F4F00B6A522 /* Sources */,
+				001B7F1329758F4F00B6A522 /* Frameworks */,
+				001B7F1429758F4F00B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PerfectNumbersTests;
+			productName = PerfectNumbersTests;
+			productReference = 001B7F1629758F4F00B6A522 /* PerfectNumbersTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		001B7F2529759A7400B6A522 /* ISBNVerifierTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 001B7F2A29759A7400B6A522 /* Build configuration list for PBXNativeTarget "ISBNVerifierTests" */;
+			buildPhases = (
+				001B7F2229759A7400B6A522 /* Sources */,
+				001B7F2329759A7400B6A522 /* Frameworks */,
+				001B7F2429759A7400B6A522 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ISBNVerifierTests;
+			productName = ISBNVerifierTests;
+			productReference = 001B7F2629759A7400B6A522 /* ISBNVerifierTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		003835252975D476003AB687 /* PhoneNumberTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0038352A2975D476003AB687 /* Build configuration list for PBXNativeTarget "PhoneNumberTests" */;
+			buildPhases = (
+				003835222975D476003AB687 /* Sources */,
+				003835232975D476003AB687 /* Frameworks */,
+				003835242975D476003AB687 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhoneNumberTests;
+			productName = PhoneNumberTests;
+			productReference = 003835262975D476003AB687 /* PhoneNumberTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		003835372975F2BC003AB687 /* KindergartenGardenTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0038353C2975F2BD003AB687 /* Build configuration list for PBXNativeTarget "KindergartenGardenTests" */;
+			buildPhases = (
+				003835342975F2BC003AB687 /* Sources */,
+				003835352975F2BC003AB687 /* Frameworks */,
+				003835362975F2BC003AB687 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KindergartenGardenTests;
+			productName = KindergartenGardenTests;
+			productReference = 003835382975F2BC003AB687 /* KindergartenGardenTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		003835472976E00D003AB687 /* ProteinTranslationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0038354C2976E00D003AB687 /* Build configuration list for PBXNativeTarget "ProteinTranslationTests" */;
+			buildPhases = (
+				003835442976E00D003AB687 /* Sources */,
+				003835452976E00D003AB687 /* Frameworks */,
+				003835462976E00D003AB687 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ProteinTranslationTests;
+			productName = ProteinTranslationTests;
+			productReference = 003835482976E00D003AB687 /* ProteinTranslationTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		0048D8A9296F5B9C00CF7C72 /* LogLinesTests */ = {
@@ -1908,6 +2308,30 @@
 					001B7ED529714A8900B6A522 = {
 						CreatedOnToolsVersion = 14.2;
 					};
+					001B7EE5297163B900B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7EF52971959000B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7F072974043B00B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7F1529758F4F00B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					001B7F2529759A7400B6A522 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					003835252975D476003AB687 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					003835372975F2BC003AB687 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					003835472976E00D003AB687 = {
+						CreatedOnToolsVersion = 14.2;
+					};
 					0048D8A9296F5B9C00CF7C72 = {
 						CreatedOnToolsVersion = 14.2;
 					};
@@ -2053,6 +2477,14 @@
 				001B7EB52971435700B6A522 /* NucleotideTests */,
 				001B7EC52971447200B6A522 /* FlattenArrayTests */,
 				001B7ED529714A8900B6A522 /* ClockTests */,
+				001B7EE5297163B900B6A522 /* GrainsTests */,
+				001B7EF52971959000B6A522 /* SpaceAgeTests */,
+				001B7F072974043B00B6A522 /* DifferenceOfSquaresTests */,
+				001B7F1529758F4F00B6A522 /* PerfectNumbersTests */,
+				001B7F2529759A7400B6A522 /* ISBNVerifierTests */,
+				003835252975D476003AB687 /* PhoneNumberTests */,
+				003835372975F2BC003AB687 /* KindergartenGardenTests */,
+				003835472976E00D003AB687 /* ProteinTranslationTests */,
 			);
 		};
 /* End PBXProject section */
@@ -2094,6 +2526,62 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		001B7ED429714A8900B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EE4297163B900B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EF42971959000B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F062974043B00B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F1429758F4F00B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F2429759A7400B6A522 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835242975D476003AB687 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835362975F2BC003AB687 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835462976E00D003AB687 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2367,6 +2855,78 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		001B7EE2297163B900B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7EEF297163DF00B6A522 /* Grains.swift in Sources */,
+				001B7EE9297163B900B6A522 /* GrainsTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7EF22971959000B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7F002971960100B6A522 /* SpaceAge.swift in Sources */,
+				001B7EF92971959000B6A522 /* SpaceAgeTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F042974043B00B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7F10297404CE00B6A522 /* DifferenceOfSquares.swift in Sources */,
+				001B7F0B2974043B00B6A522 /* DifferenceOfSquaresTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F1229758F4F00B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7F2029758F8800B6A522 /* PerfectNumbers.swift in Sources */,
+				001B7F1929758F4F00B6A522 /* PerfectNumbersTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		001B7F2229759A7400B6A522 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				001B7F3029759AA400B6A522 /* ISBNVerifier.swift in Sources */,
+				001B7F2929759A7400B6A522 /* ISBNVerifierTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835222975D476003AB687 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0038352F2975D49C003AB687 /* PhoneNumber.swift in Sources */,
+				003835292975D476003AB687 /* PhoneNumberTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835342975F2BC003AB687 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				003835402975F2E1003AB687 /* KindergartenGarden.swift in Sources */,
+				0038353B2975F2BD003AB687 /* KindergartenGardenTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		003835442976E00D003AB687 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				003835502976E036003AB687 /* ProteinTranslation.swift in Sources */,
+				0038354B2976E00D003AB687 /* ProteinTranslationTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0048D8A6296F5B9C00CF7C72 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2508,19 +3068,23 @@
 			files = (
 				0048D8D4296F5CBA00CF7C72 /* SecretAgentDouble_Null0111Tests.swift in Sources */,
 				001B7E9E2970917100B6A522 /* CollatzConjectureTests.swift in Sources */,
+				0038354F2976E02A003AB687 /* ProteinTranslationTests.swift in Sources */,
 				00A949D4296F543D009DF4C8 /* Sublist.swift in Sources */,
 				00A94A24296F5888009DF4C8 /* WindowingSystemTests.swift in Sources */,
 				00A94929296F4350009DF4C8 /* main.swift in Sources */,
 				001B7EAF2970927700B6A522 /* DNATests.swift in Sources */,
 				00A949E6296F551E009DF4C8 /* VexingVehiclePurchase.swift in Sources */,
+				0038352E2975D490003AB687 /* PhoneNumber.swift in Sources */,
 				00A949DA296F5492009DF4C8 /* LogLines.swift in Sources */,
 				00A9499E296F5183009DF4C8 /* SantaSwiftyHelperTests.swift in Sources */,
 				00A94953296F48A6009DF4C8 /* DoubleNull0111ClosuresAreForever.swift in Sources */,
 				00A949B7296F52E6009DF4C8 /* HighScoreBoardTests.swift in Sources */,
 				00A949C8296F53A2009DF4C8 /* SliceSizing.swift in Sources */,
 				00A94950296F4848009DF4C8 /* SantaSwiftyHelper.swift in Sources */,
+				001B7EF02971646400B6A522 /* GrainsTests.swift in Sources */,
 				001B7E742970006900B6A522 /* HammingTests.swift in Sources */,
 				00A94A4B296F5AF7009DF4C8 /* LayersOfLasagnaTests.swift in Sources */,
+				003835302975D4A3003AB687 /* PhoneNumberTests.swift in Sources */,
 				001B7E70296FFEA600B6A522 /* ETLTests.swift in Sources */,
 				00A94959296F4914009DF4C8 /* HighScoreBoard.swift in Sources */,
 				00A949F8296F55F4009DF4C8 /* ListOps.swift in Sources */,
@@ -2533,14 +3097,19 @@
 				001B7EDE29714AA000B6A522 /* Clock.swift in Sources */,
 				00A94982296F4AC4009DF4C8 /* TwoFerTests.swift in Sources */,
 				001B7EBE2971438900B6A522 /* Nucleotide.swift in Sources */,
+				001B7F032974041700B6A522 /* DifferenceOfSquares.swift in Sources */,
 				001B7E772970009900B6A522 /* ListOpsTests.swift in Sources */,
 				001B7ECF297144B400B6A522 /* FlattenArrayTests.swift in Sources */,
 				0048D8D8296F5D0B00CF7C72 /* LogLinesTests.swift in Sources */,
+				003835332975F2B2003AB687 /* KindergartenGarden.swift in Sources */,
 				00A949DD296F54AC009DF4C8 /* MasterMixologist.swift in Sources */,
 				00A94948296F46FF009DF4C8 /* SumOfMultiplesTests.swift in Sources */,
+				001B7F1F29758F7C00B6A522 /* PerfectNumbersTests.swift in Sources */,
 				001B7E762970008000B6A522 /* IsogramTests.swift in Sources */,
 				00A949D7296F547B009DF4C8 /* LayersOfLasagna.swift in Sources */,
+				001B7F2E29759A8200B6A522 /* ISBNVerifier.swift in Sources */,
 				00A9492F296F43AA009DF4C8 /* MagicianInTrainingTests.swift in Sources */,
+				001B7EEE297163C700B6A522 /* Grains.swift in Sources */,
 				001B7E78297000BA00B6A522 /* BinarySearchTests.swift in Sources */,
 				001B7E79297000D500B6A522 /* RaindropsTests.swift in Sources */,
 				00A94939296F4524009DF4C8 /* SumOfMultiples.swift in Sources */,
@@ -2553,6 +3122,7 @@
 				00A949E9296F5566009DF4C8 /* Accumulate.swift in Sources */,
 				001B7E752970006B00B6A522 /* GradeSchoolTests.swift in Sources */,
 				00A94A49296F5A0F009DF4C8 /* SublistTests.swift in Sources */,
+				001B7F0F2974045E00B6A522 /* DifferenceOfSquaresTests.swift in Sources */,
 				00A949EF296F55A4009DF4C8 /* GradeSchool.swift in Sources */,
 				001B7EBF297143F300B6A522 /* NucleotideTests.swift in Sources */,
 				00A949D1296F5424009DF4C8 /* Bob.swift in Sources */,
@@ -2565,11 +3135,16 @@
 				001B7E822970907000B6A522 /* Diamond.swift in Sources */,
 				00A94936296F44CC009DF4C8 /* Leap.swift in Sources */,
 				00A949EC296F5586009DF4C8 /* ETL.swift in Sources */,
+				001B7F2F29759A9100B6A522 /* ISBNVerifierTests.swift in Sources */,
 				00A94A15296F56D8009DF4C8 /* SliceSizingTests.swift in Sources */,
 				001B7E9D2970913B00B6A522 /* CollatzConjecture.swift in Sources */,
 				001B7EAE2970924900B6A522 /* DNA.swift in Sources */,
+				001B7EFE2971959F00B6A522 /* SpaceAge.swift in Sources */,
 				00A949FE296F562C009DF4C8 /* Raindrops.swift in Sources */,
+				001B7F1E29758F6000B6A522 /* PerfectNumbers.swift in Sources */,
 				00A949F5296F55DB009DF4C8 /* Isogram.swift in Sources */,
+				0038353F2975F2CE003AB687 /* KindergartenGardenTests.swift in Sources */,
+				003835432976DFFC003AB687 /* ProteinTranslation.swift in Sources */,
 				00A949E3296F5502009DF4C8 /* FreelancerRates.swift in Sources */,
 				00A94990296F50E1009DF4C8 /* DoubleNull0111ClosuresAreForeverTests.swift in Sources */,
 				0048D8D6296F5CE200CF7C72 /* MasterMixologistTests.swift in Sources */,
@@ -2577,6 +3152,7 @@
 				0048D8D2296F5C8E00CF7C72 /* FreelancerRatesTests.swift in Sources */,
 				00A94A47296F5981009DF4C8 /* BobTests.swift in Sources */,
 				001B7EDF29714ACA00B6A522 /* ClockTests.swift in Sources */,
+				001B7EFF297195F300B6A522 /* SpaceAgeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2949,6 +3525,326 @@
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.app.ClockTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7EEB297163B900B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.GrainsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7EEC297163B900B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.GrainsTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7EFB2971959000B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.SpaceAgeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7EFC2971959000B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.SpaceAgeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7F0D2974043B00B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DifferenceOfSquaresTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7F0E2974043B00B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.DifferenceOfSquaresTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7F1B29758F4F00B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.PerfectNumbersTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7F1C29758F4F00B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.PerfectNumbersTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		001B7F2B29759A7400B6A522 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ISBNVerifierTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		001B7F2C29759A7400B6A522 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ISBNVerifierTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0038352B2975D476003AB687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.PhoneNumberTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0038352C2975D476003AB687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.PhoneNumberTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0038353D2975F2BD003AB687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.KindergartenGardenTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0038353E2975F2BD003AB687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.KindergartenGardenTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0038354D2976E00D003AB687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ProteinTranslationTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0038354E2976E00D003AB687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LFLMJ46Z7V;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MACOSX_DEPLOYMENT_TARGET = 13.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.ProteinTranslationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -4346,6 +5242,78 @@
 			buildConfigurations = (
 				001B7EDB29714A8A00B6A522 /* Debug */,
 				001B7EDC29714A8A00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7EEA297163B900B6A522 /* Build configuration list for PBXNativeTarget "GrainsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7EEB297163B900B6A522 /* Debug */,
+				001B7EEC297163B900B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7EFA2971959000B6A522 /* Build configuration list for PBXNativeTarget "SpaceAgeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7EFB2971959000B6A522 /* Debug */,
+				001B7EFC2971959000B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7F0C2974043B00B6A522 /* Build configuration list for PBXNativeTarget "DifferenceOfSquaresTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7F0D2974043B00B6A522 /* Debug */,
+				001B7F0E2974043B00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7F1A29758F4F00B6A522 /* Build configuration list for PBXNativeTarget "PerfectNumbersTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7F1B29758F4F00B6A522 /* Debug */,
+				001B7F1C29758F4F00B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		001B7F2A29759A7400B6A522 /* Build configuration list for PBXNativeTarget "ISBNVerifierTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				001B7F2B29759A7400B6A522 /* Debug */,
+				001B7F2C29759A7400B6A522 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0038352A2975D476003AB687 /* Build configuration list for PBXNativeTarget "PhoneNumberTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0038352B2975D476003AB687 /* Debug */,
+				0038352C2975D476003AB687 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0038353C2975F2BD003AB687 /* Build configuration list for PBXNativeTarget "KindergartenGardenTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0038353D2975F2BD003AB687 /* Debug */,
+				0038353E2975F2BD003AB687 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0038354C2976E00D003AB687 /* Build configuration list for PBXNativeTarget "ProteinTranslationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0038354D2976E00D003AB687 /* Debug */,
+				0038354E2976E00D003AB687 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

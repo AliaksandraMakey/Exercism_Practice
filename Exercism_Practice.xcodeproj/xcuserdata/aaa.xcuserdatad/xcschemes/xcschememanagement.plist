@@ -17,7 +17,7 @@
 		<key>AccumulateTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>21</integer>
 		</dict>
 		<key>BinarySearch.xcscheme_^#shared#^_</key>
 		<dict>
@@ -27,7 +27,7 @@
 		<key>BinarySearchTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Bob.xcscheme_^#shared#^_</key>
 		<dict>
@@ -37,7 +37,7 @@
 		<key>BobTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>18</integer>
 		</dict>
 		<key>CalCustomSignShop.xcscheme_^#shared#^_</key>
 		<dict>
@@ -47,7 +47,7 @@
 		<key>CalCustomSignShopTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>23</integer>
+			<integer>2</integer>
 		</dict>
 		<key>CircularBuffer.xcscheme_^#shared#^_</key>
 		<dict>
@@ -62,27 +62,32 @@
 		<key>ClockTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>36</integer>
+			<integer>23</integer>
 		</dict>
 		<key>CollatzConjectureTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>32</integer>
+			<integer>26</integer>
 		</dict>
 		<key>DNATests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>33</integer>
+			<integer>10</integer>
 		</dict>
 		<key>DiamondTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>1</integer>
+		</dict>
+		<key>DifferenceOfSquaresTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
 		</dict>
 		<key>DoubleNull0111ClosuresAreForeverTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>7</integer>
 		</dict>
 		<key>DoubleNull0111_ClosuresAreForever.xcscheme_^#shared#^_</key>
 		<dict>
@@ -97,12 +102,12 @@
 		<key>ETLTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>41</integer>
 		</dict>
 		<key>ExercismPractice.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>38</integer>
 		</dict>
 		<key>Exercism_Practice.xcscheme_^#shared#^_</key>
 		<dict>
@@ -117,7 +122,7 @@
 		<key>FlattenArrayTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>35</integer>
+			<integer>13</integer>
 		</dict>
 		<key>FreelancerRates.xcscheme_^#shared#^_</key>
 		<dict>
@@ -127,12 +132,12 @@
 		<key>FreelancerRatesTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>25</integer>
 		</dict>
 		<key>GigasecondTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>27</integer>
 		</dict>
 		<key>GradeSchool.xcscheme_^#shared#^_</key>
 		<dict>
@@ -142,7 +147,12 @@
 		<key>GradeSchoolTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>14</integer>
+		</dict>
+		<key>GrainsTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
 		</dict>
 		<key>Hamming.xcscheme_^#shared#^_</key>
 		<dict>
@@ -152,7 +162,7 @@
 		<key>HammingTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>11</integer>
 		</dict>
 		<key>HighScoreBoard.xcscheme_^#shared#^_</key>
 		<dict>
@@ -162,7 +172,12 @@
 		<key>HighScoreBoardTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>30</integer>
+			<integer>31</integer>
+		</dict>
+		<key>ISBNVerifierTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
 		</dict>
 		<key>Isogram.xcscheme_^#shared#^_</key>
 		<dict>
@@ -172,7 +187,12 @@
 		<key>IsogramTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>32</integer>
+		</dict>
+		<key>KindergartenGardenTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
 		</dict>
 		<key>Lasagna Master.xcscheme_^#shared#^_</key>
 		<dict>
@@ -182,7 +202,7 @@
 		<key>LasagnaMasterTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>24</integer>
+			<integer>3</integer>
 		</dict>
 		<key>LayersOfLasagna.xcscheme_^#shared#^_</key>
 		<dict>
@@ -192,7 +212,7 @@
 		<key>LayersOfLasagnaTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Leap.xcscheme_^#shared#^_</key>
 		<dict>
@@ -202,7 +222,7 @@
 		<key>LeapTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>4</integer>
 		</dict>
 		<key>ListOps.xcscheme_^#shared#^_</key>
 		<dict>
@@ -212,7 +232,7 @@
 		<key>ListOpsTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>40</integer>
 		</dict>
 		<key>LogLines.xcscheme_^#shared#^_</key>
 		<dict>
@@ -222,7 +242,7 @@
 		<key>LogLinesTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>34</integer>
 		</dict>
 		<key>MagicianInTraining.xcscheme_^#shared#^_</key>
 		<dict>
@@ -232,7 +252,7 @@
 		<key>MagicianInTrainingTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>20</integer>
 		</dict>
 		<key>MagicianinTrainingTests } func evenCardCount(_ stack: [Int]) -&gt; Int  {     var counter = 0     for i in 0..&lt;stack.count {         if stack[i] % 2 == 0 {             counter += 1         }     }     return counter }.xcscheme_^#shared#^_</key>
 		<dict>
@@ -247,12 +267,32 @@
 		<key>MasterMixologistTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>29</integer>
+		</dict>
+		<key>NucleotideTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
 		</dict>
 		<key>NucleotideЕуыеы.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>34</integer>
+		</dict>
+		<key>PerfectNumbersTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>PhoneNumberTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>ProteinTranslationTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
 		</dict>
 		<key>Raindrops.xcscheme_^#shared#^_</key>
 		<dict>
@@ -262,7 +302,7 @@
 		<key>RaindropsTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>39</integer>
 		</dict>
 		<key>SantaSwiftyHelper.xcscheme_^#shared#^_</key>
 		<dict>
@@ -272,7 +312,7 @@
 		<key>SantaSwiftyHelperTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>12</integer>
 		</dict>
 		<key>SecretAgentDouble-Null0111.xcscheme_^#shared#^_</key>
 		<dict>
@@ -282,7 +322,7 @@
 		<key>SecretAgentDouble-Null0111Tests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>17</integer>
 		</dict>
 		<key>SliceSizing.xcscheme_^#shared#^_</key>
 		<dict>
@@ -292,7 +332,12 @@
 		<key>SliceSizingTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>28</integer>
+		</dict>
+		<key>SpaceAgeTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
 		</dict>
 		<key>Sublist.xcscheme_^#shared#^_</key>
 		<dict>
@@ -302,7 +347,7 @@
 		<key>SublistTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>15</integer>
 		</dict>
 		<key>SumOfMultiples.xcscheme_^#shared#^_</key>
 		<dict>
@@ -312,7 +357,7 @@
 		<key>SumOfMultiplesTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>29</integer>
+			<integer>35</integer>
 		</dict>
 		<key>TheFirstRuleofPoetryClub.xcscheme_^#shared#^_</key>
 		<dict>
@@ -322,7 +367,7 @@
 		<key>TheFirstRuleofPoetryClubTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>24</integer>
 		</dict>
 		<key>TwoFer.xcscheme_^#shared#^_</key>
 		<dict>
@@ -332,7 +377,7 @@
 		<key>TwoFerTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>37</integer>
 		</dict>
 		<key>VexingVehiclePurchase.xcscheme_^#shared#^_</key>
 		<dict>
@@ -342,7 +387,7 @@
 		<key>VexingVehiclePurchaseTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>16</integer>
 		</dict>
 		<key>WindowingSystem.xcscheme_^#shared#^_</key>
 		<dict>
@@ -352,7 +397,7 @@
 		<key>WindowingSystemTests.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>9</integer>
 		</dict>
 		<key>test.xcscheme_^#shared#^_</key>
 		<dict>
